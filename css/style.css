@@ -1,0 +1,77 @@
+*{
+margin:0px;
+
+padding:0px;
+}
+#numero0{
+	width:1000px;
+	height:170px;
+	background:#0404B4;
+	
+	text-align:center;
+	border:3px solid white;
+}
+#numero1{
+	background:blue;
+	height:270px;
+	width:1000px;
+	float:left;
+
+	border:3px solid white;
+	text-align:center;
+}
+#numero2{
+	background:blue;
+	height:170px;
+	width:1000px;
+	float:left;
+
+	border:3px solid white;
+	text-align:center;
+}
+#numero3{
+	position:relative;
+	background:blue;
+	height:220px;
+	width:333px;
+	float:right;
+    margin-top:-628px;
+	border:3px solid white;
+	text-align:center;
+}
+#numero4{
+	position:relative;
+	margin-top:-405px;
+	background:blue;
+	height:180px;
+	width:333px;
+	float:right;
+  
+	border:3px solid white;
+	text-align:center;
+}
+#numero5{
+	position:relative;
+	background:blue;
+	height:107px;
+	width:333px;
+	float:right;
+    margin-top:-220px;
+	border:3px solid white;
+	text-align:center;
+}
+#numero6{
+	position:relative;
+	background:blue;
+	height:104px;
+	width:333px;
+	float:right;
+    margin-top:-110px;
+	border:3px solid white;
+	text-align:center;
+}
+footer{
+     float:left;
+	background:yellow;
+	width:100%;
+}
